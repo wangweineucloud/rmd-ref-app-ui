@@ -12,7 +12,7 @@ var config = {
 
         clientId: '1',
         clientSecret: 'vFDXCrWsWhm8fecBMaNH1jxRzijQp73H9uRS1Rhh',
-        serverUrl: 'uaaww-anol45wo.i.saasapps.cn',
+        serverUrl: 'http://uaaww-anol45wo.i.saasapps.cn',
         redirect_uri: 'http://rmdww.i.saasapps.cn/callback',
         defaultClientRoute: '/about'
 
